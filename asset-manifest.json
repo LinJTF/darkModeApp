@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/darkModeApp/static/js/main.304cb5fe.js",
+    "static/media/moon.png": "/darkModeApp/static/media/moon.ed34e3ccb9cc98e025d1.png",
+    "static/media/sun.png": "/darkModeApp/static/media/sun.0e2a0b8e7661d9b8c97a.png",
+    "index.html": "/darkModeApp/index.html",
+    "main.304cb5fe.js.map": "/darkModeApp/static/js/main.304cb5fe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.304cb5fe.js"
+  ]
+}
